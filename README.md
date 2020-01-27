@@ -1,11 +1,11 @@
 # Movie_CMS
 
-Week 2 ~ 3: Build the Movie CMS front pages in PHP
+##h2Week 2 ~ 3: Build the Movie CMS front pages in PHP
 
-Optimized PHP connector to DB
+###h3Optimized PHP connector to DB
 
-Folder Structure and template management
+###h3Folder Structure and template management
 
-The landing page that loads all movies
+###h3The landing page that loads all movies
 
-Detail page with individual movie details 
+###h3Detail page with individual movie details 
